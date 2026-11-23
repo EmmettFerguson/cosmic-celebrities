@@ -1,11 +1,11 @@
 ---
 title: Cosmic Celebrities
-deck: [One-sentence deck: what makes an object in space famous, and how the group measured it.]
+deck: What is Popularity? Why is space so popular? 
 byline: By Elinor Tu, Maya Dixit, Emmett Ferguson, Saanvi Movva, Sophia Wang · Cornell Data Journal
 kicker: THE SUN · START HERE
 ---
 
-### How to read this piece
+### Introduction
 
 Why are things popular? Is it a bright color, unique shape, striking portrait, or some intangible hook that attracts us? We may define beauty differently, but despite our preferences, do we tend to chase patterns—the same properties, the same views—that reveal common inclinations in our perception?
 
