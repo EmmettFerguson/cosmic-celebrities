@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-label="Placeholder figure">
+  <rect width="640" height="300" fill="#07061A"/>
+  <rect x="1" y="1" width="638" height="298" fill="none" stroke="#2A2760" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="200" cy="150" r="60" fill="#3B3FD9"/>
+  <circle cx="330" cy="150" r="36" fill="#8B3FE3"/>
+  <circle cx="430" cy="150" r="20" fill="#C9C3FA"/>
+  <text x="320" y="262" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="16" fill="#A9A6C8" letter-spacing="2">YOUR FIGURE HERE · img/your-file.png</text>
+</svg>
