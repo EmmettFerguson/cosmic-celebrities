@@ -5,11 +5,7 @@ byline: By Elinor Tu, Maya Dixit, Emmett Ferguson, Saanvi Movva, Sophia Wang · 
 kicker: THE SUN · START HERE
 ---
 
-[Intro paragraph. Set up the article's question: which objects in our solar system are the biggest "celebrities", and by what measures? Readers start here on the Sun, and can click **← System** at any time to see the whole solar system and pick a celebrity.]
-
 ### How to read this piece
-
-Click any planet in the solar system to fly to its page, or use the arrows to read in order. A term that is [[highlighted like this|This is a footnote. 
 
 Why are things popular? Is it a bright color, unique shape, striking portrait, or some intangible hook that attracts us? We may define beauty differently, but despite our preferences, do we tend to chase patterns—the same properties, the same views—that reveal common inclinations in our perception?
 
